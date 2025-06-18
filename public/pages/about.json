@@ -1,216 +1,205 @@
-
 {
-  "meta": {
-    "title": "About Us - Ashapura Brass Industries",
-    "description": "Learn about our company's journey, infrastructure, and commitment to excellence in brass manufacturing"
-  },
   "hero": {
-    "type": "image",
-    "enabled": true,
-    "title": "About Ashapura Brass Industries",
-    "subtitle": "Excellence in Manufacturing Since 1985",
-    "description": "Discover our journey of innovation, quality, and commitment to delivering superior brass manufacturing solutions.",
-    "backgroundImage": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=2000&q=80",
     "cta": {
-      "primary": "Learn More",
-      "secondary": "Watch Video"
-    }
+      "primary": "Explore Precision",
+      "secondary": "Download Brochure"
+    },
+    "type": "image",
+    "title": "RT Turnomatics - Precision Components Manufacturing Excellence",
+    "enabled": true,
+    "subtitle": "Engineering Precision Since 2021, Global Manufacturing Leaders",
+    "description": "RT Turnomatics delivers superior precision components for automotive, pneumatic, and aerospace industries. Experience trusted manufacturing with cutting-edge CNC technology and unparalleled quality standards.",
+    "backgroundImage": "/images/manufacturing-facility.jpg"
+  },
+  "meta": {
+    "title": "RT Turnomatics - Precision Manufacturing Solutions",
+    "description": "Leading precision components manufacturer specializing in brass, stainless steel, and aluminum parts for automotive, aerospace, and pneumatic sectors."
   },
   "sections": {
-    "companyOverview": {
-      "type": "company-overview",
+    "cta": {
+      "type": "cta",
+      "title": "Partner with Industry Precision Leaders",
       "enabled": true,
-      "title": "Leaders in Brass Manufacturing",
-      "subtitle": "Shaping the future of engineering with precision, innovation, and unwavering commitment to quality standards.",
-      "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?auto=format&fit=crop&w=800&q=80",
-      "items": [
-        {
-          "id": "overview",
-          "content": "Ashapura Brass Industries has been a pioneer in precision brass manufacturing since 1985. We specialize in producing high-quality brass components for automotive, pneumatic, aerospace, and hydraulic applications, serving clients worldwide with exceptional quality and reliability.",
-          "highlights": [
-            "ISO 9001:2015 Quality Management Certification",
-            "Advanced CNC Machining & Automation Technology",
-            "Global Export Network Spanning 50+ Countries",
-            "Dedicated R&D Team for Product Innovation",
-            "24/7 Technical Support & Customer Service",
-            "State-of-the-Art Quality Assurance Laboratory",
-            "Sustainable Manufacturing Practices",
-            "Industry-Leading Delivery Performance"
-          ]
-        }
-      ]
-    },
-    "companyJourney": {
-      "type": "company-journey",
-      "enabled": true,
-      "title": "Our Journey",
-      "subtitle": "Milestones that define our growth and excellence",
-      "items": [
-        {
-          "year": "1985",
-          "title": "Foundation",
-          "description": "Ashapura Brass Industries was founded with a vision to provide high-quality brass components."
-        },
-        {
-          "year": "1995",
-          "title": "Expansion",
-          "description": "Expanded operations with new manufacturing facilities and advanced machinery."
-        },
-        {
-          "year": "2005",
-          "title": "Quality Certification",
-          "description": "Achieved ISO 9001:2000 certification, marking our commitment to quality standards."
-        },
-        {
-          "year": "2015",
-          "title": "Global Reach",
-          "description": "Established international partnerships and expanded to 50+ countries worldwide."
-        },
-        {
-          "year": "2023",
-          "title": "Innovation Hub",
-          "description": "Launched state-of-the-art R&D facility for advanced alloy development."
-        }
-      ]
-    },
-    "infrastructure": {
-      "type": "infrastructure",
-      "enabled": true,
-      "title": "Our Infrastructure & Equipment",
-      "subtitle": "Advanced manufacturing capabilities with precision machinery",
-      "items": [
-        {
-          "id": "cnc-machines",
-          "title": "CNC Machining Centers",
-          "description": "High-precision CNC turning and milling machines for complex components with tight tolerances.",
-          "capacity": "50+ Machines",
-          "specifications": "5-axis machining capability, ±0.01mm tolerance",
-          "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=600&q=80"
-        },
-        {
-          "id": "forging-equipment",
-          "title": "Forging & Forming Equipment",
-          "description": "Heavy-duty forging presses and forming machines for creating strong, durable components.",
-          "capacity": "2000 Ton Press",
-          "specifications": "Hot & cold forging, die forging capabilities",
-          "image": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&w=600&q=80"
-        },
-        {
-          "id": "testing-equipment",
-          "title": "Quality Testing Equipment",
-          "description": "State-of-the-art testing and measurement instruments for quality assurance and material analysis.",
-          "area": "5,000 sq ft",
-          "specifications": "CMM, Spectrometer, Hardness testers, Surface finish analyzers",
-          "image": "https://images.unsplash.com/photo-1566576912293-d5ce2ba96515?auto=format&fit=crop&w=600&q=80"
-        }
-      ]
-    },
-    "manufacturingProcess": {
-      "type": "manufacturing-process",
-      "enabled": true,
-      "title": "Manufacturing Process",
-      "subtitle": "Precision engineering through systematic processes",
-      "items": [
-        {
-          "id": "design",
-          "step": 1,
-          "title": "Design & Engineering",
-          "description": "Advanced modeling and engineering analysis to ensure optimal design specifications."
-        },
-        {
-          "id": "material",
-          "step": 2,
-          "title": "Material Selection",
-          "description": "Premium quality brass alloys sourced from certified suppliers worldwide."
-        },
-        {
-          "id": "machining",
-          "step": 3,
-          "title": "Precision Machining",
-          "description": "CNC machining with tight tolerances using state-of-the-art equipment."
-        },
-        {
-          "id": "quality",
-          "step": 4,
-          "title": "Quality Control",
-          "description": "Rigorous testing and inspection at every stage of the manufacturing process."
-        },
-        {
-          "id": "finishing",
-          "step": 5,
-          "title": "Surface Finishing",
-          "description": "Professional finishing treatments including polishing, coating, and plating."
-        },
-        {
-          "id": "packaging",
-          "step": 6,
-          "title": "Packaging & Dispatch",
-          "description": "Secure packaging and timely dispatch with complete documentation."
-        }
-      ]
+      "subtitle": "Trusted by 15 global clients, delivering exceptional precision components with 4 years of specialized manufacturing expertise.",
+      "primaryCTA": {
+        "text": "Request Quote",
+        "action": "/quote"
+      },
+      "secondaryCTA": {
+        "text": "View Services",
+        "action": "/services"
+      }
     },
     "awards": {
       "type": "awards",
-      "enabled": true,
-      "title": "Awards & Recognition",
-      "subtitle": "Celebrating excellence and industry recognition",
       "items": [
         {
-          "id": "excellence",
-          "title": "Manufacturing Excellence Award",
+          "id": "precision-excellence",
           "year": "2023",
-          "authority": "Gujarat Industrial Development Corporation",
-          "description": "Recognized for outstanding contribution to manufacturing sector and export growth."
+          "title": "Manufacturing Excellence Award",
+          "authority": "National Manufacturing Association",
+          "description": "Recognized for outstanding precision engineering and consistent quality in component manufacturing across multiple industrial sectors."
         },
         {
-          "id": "quality",
-          "title": "Quality Excellence Award",
+          "id": "quality-standard",
           "year": "2022",
-          "authority": "Bureau of Indian Standards",
-          "description": "Awarded for maintaining highest quality standards in brass manufacturing."
+          "title": "Quality Management Excellence",
+          "authority": "ISO International Certification",
+          "description": "Achieved top-tier quality management certification demonstrating commitment to superior manufacturing standards."
         },
         {
-          "id": "export",
-          "title": "Export Excellence Award",
-          "year": "2021",
-          "authority": "Engineering Export Promotion Council",
-          "description": "Honored for significant contribution to India's engineering exports."
+          "id": "export-achievement",
+          "year": "2023",
+          "title": "Export Performance Recognition",
+          "authority": "Chamber of Commerce",
+          "description": "Acknowledged for significant contributions to international manufacturing and successful global client partnerships."
         }
-      ]
+      ],
+      "title": "Awards & Recognition",
+      "enabled": true,
+      "subtitle": "Industry Leadership Through Continuous Excellence and Innovation"
     },
     "certificates": {
       "type": "certificates",
-      "enabled": true,
-      "title": "Certifications & Standards",
-      "subtitle": "Commitment to Quality and Compliance",
       "items": [
         {
-          "id": "iso-9001",
+          "id": "iso-certification",
           "name": "ISO 9001:2015",
-          "description": "Quality Management System",
-          "image": "/placeholder.svg"
+          "image": "/certificates/iso-logo.png",
+          "description": "Quality Management System"
         },
         {
-          "id": "iso-14001",
-          "name": "ISO 14001:2015",
-          "description": "Environmental Management",
-          "image": "/placeholder.svg"
+          "id": "manufacturing-standard",
+          "name": "AS9100D",
+          "image": "/certificates/aerospace-standard.png",
+          "description": "Aerospace Manufacturing Standard"
         }
-      ]
-    },
-    "cta": {
-      "type": "cta",
+      ],
+      "title": "Certifications & Standards",
       "enabled": true,
-      "title": "Partner with Industry Leaders",
-      "subtitle": "Join thousands of satisfied clients who trust Ashapura Brass Industries for their precision manufacturing needs.",
-      "primaryCTA": {
-        "text": "Start Your Project",
-        "action": "/contact"
-      },
-      "secondaryCTA": {
-        "text": "Explore Our Capabilities",
-        "action": "/services"
-      }
+      "subtitle": "Commitment to Highest Quality and Compliance Standards"
+    },
+    "companyJourney": {
+      "type": "company-journey",
+      "items": [
+        {
+          "year": "2021",
+          "title": "Foundation",
+          "description": "Established RT Turnomatics with a vision to provide high-precision manufacturing solutions for critical industrial sectors."
+        },
+        {
+          "year": "2022",
+          "title": "Technological Expansion",
+          "description": "Invested in advanced CNC machinery, expanding production capabilities and introducing state-of-the-art manufacturing technologies."
+        },
+        {
+          "year": "2023",
+          "title": "Quality Excellence",
+          "description": "Achieved ISO 9001:2015 and AS9100D certifications, demonstrating commitment to international quality standards."
+        },
+        {
+          "year": "2023",
+          "title": "Global Reach",
+          "description": "Expanded international client base, successfully serving manufacturing needs across automotive, aerospace, and pneumatic sectors."
+        },
+        {
+          "year": "2024",
+          "title": "Innovation Hub",
+          "description": "Continued investment in R&D, developing advanced precision manufacturing techniques and exploring new technological frontiers."
+        }
+      ],
+      "title": "Our Growth Journey",
+      "enabled": true,
+      "subtitle": "Transforming Precision Manufacturing Through Continuous Innovation"
+    },
+    "infrastructure": {
+      "type": "infrastructure",
+      "items": [
+        {
+          "id": "cnc-machines",
+          "image": "/images/cnc-machinery.jpg",
+          "title": "Advanced CNC Precision Machining",
+          "capacity": "15 High-Precision CNC Machines, 24/7 Production",
+          "description": "State-of-the-art CNC machinery capable of producing complex precision components with micron-level tolerances across multiple material types.",
+          "specifications": "0.01mm Precision, Multi-Axis Capabilities, Automated Tool Management"
+        },
+        {
+          "id": "quality-testing",
+          "area": "500 sq. meters Dedicated Testing Facility",
+          "image": "/images/quality-lab.jpg",
+          "title": "Comprehensive Quality Assurance Laboratory",
+          "description": "Advanced metrology equipment ensuring rigorous quality control and dimensional accuracy for every manufactured component.",
+          "specifications": "CMM Measurement, Optical Comparators, Surface Roughness Analysis"
+        }
+      ],
+      "title": "Manufacturing Capabilities",
+      "enabled": true,
+      "subtitle": "Cutting-Edge Infrastructure Delivering World-Class Precision Components"
+    },
+    "companyOverview": {
+      "type": "company-overview",
+      "image": "/images/company-overview.jpg",
+      "items": [
+        {
+          "id": "overview",
+          "content": "RT Turnomatics is a premier precision components manufacturer established in 2021, specializing in high-quality brass, stainless steel, and aluminum parts for automotive, pneumatic, and aerospace industries. With advanced CNC manufacturing capabilities and a commitment to excellence, we serve 15 global clients across multiple sectors. Our state-of-the-art facility and ISO-certified processes ensure consistently superior components that meet the most demanding industrial standards.",
+          "highlights": [
+            "ISO 9001:2015 and AS9100D Certified",
+            "Advanced CNC Manufacturing Technology",
+            "Serving 15 Global Clients",
+            "Precision Tolerance: 0.01mm",
+            "Comprehensive Quality Control",
+            "Multi-Material Manufacturing Capabilities"
+          ]
+        }
+      ],
+      "title": "Leaders in Precision Manufacturing",
+      "enabled": true,
+      "subtitle": "Delivering Exceptional Quality Through Advanced Engineering and Innovation"
+    },
+    "manufacturingProcess": {
+      "type": "manufacturing-process",
+      "items": [
+        {
+          "id": "design-engineering",
+          "step": 1,
+          "title": "Precision Design & Engineering",
+          "description": "Comprehensive design analysis using advanced CAD/CAM technologies for optimal component performance."
+        },
+        {
+          "id": "material-selection",
+          "step": 2,
+          "title": "Strategic Material Sourcing",
+          "description": "Carefully selected high-grade materials meeting stringent quality and performance specifications."
+        },
+        {
+          "id": "production",
+          "step": 3,
+          "title": "Advanced CNC Precision Machining",
+          "description": "Utilizing multi-axis CNC machines to create complex components with micron-level accuracy."
+        },
+        {
+          "id": "quality-control",
+          "step": 4,
+          "title": "Rigorous Quality Assurance",
+          "description": "Comprehensive dimensional and performance testing using advanced metrology equipment."
+        },
+        {
+          "id": "surface-finishing",
+          "step": 5,
+          "title": "Precision Surface Treatment",
+          "description": "Advanced surface finishing techniques ensuring optimal component performance and aesthetic quality."
+        },
+        {
+          "id": "delivery",
+          "step": 6,
+          "title": "Secure Packaging & Delivery",
+          "description": "Carefully packaged components with complete documentation, ensuring safe and timely global delivery."
+        }
+      ],
+      "title": "Manufacturing Process",
+      "enabled": true,
+      "subtitle": "Systematic, Engineered Approach to Precision Component Manufacturing"
     }
   }
 }
