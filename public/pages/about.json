@@ -20,7 +20,7 @@
       "type": "cta",
       "title": "Partner with Manufacturing Excellence",
       "enabled": true,
-      "subtitle": "Transform Your Engineering Needs with Our Precision Solutions",
+      "subtitle": "Transform your engineering requirements with our precision manufacturing capabilities",
       "primaryCTA": {
         "text": "Get Quote",
         "action": "/contact"
@@ -59,18 +59,18 @@
           "id": "iso-quality",
           "name": "ISO 9001:2015",
           "image": "/placeholder.svg",
-          "description": "Certified quality management system ensuring consistent product excellence"
+          "description": "Certified quality management system ensuring consistent product quality and customer satisfaction"
         },
         {
           "id": "iso-environmental",
           "name": "ISO 14001:2015",
           "image": "/placeholder.svg",
-          "description": "Environmental management certification demonstrating sustainable manufacturing practices"
+          "description": "Environmental management certification demonstrating commitment to sustainable manufacturing practices"
         }
       ],
       "title": "Certifications & Standards",
       "enabled": true,
-      "subtitle": "Committed to Highest Quality and Compliance Standards"
+      "subtitle": "Committed to Global Quality and Environmental Standards"
     },
     "companyJourney": {
       "type": "company-journey",
@@ -82,18 +82,34 @@
         },
         {
           "year": 2022,
-          "title": "Initial Market Expansion",
-          "description": "Secured first international clients and expanded manufacturing capabilities with advanced CNC equipment"
+          "title": "First International Client",
+          "description": "Secured first international client in aerospace components manufacturing, expanding global market presence"
         },
         {
           "year": 2023,
-          "title": "Quality Certification Achievement",
-          "description": "Obtained ISO 9001:2015 and ISO 14001:2015 certifications, reinforcing commitment to quality and sustainability"
+          "title": "Technology Upgrade",
+          "description": "Invested in advanced CNC machinery and implemented state-of-the-art manufacturing technologies"
         }
       ],
       "title": "Our Journey",
       "enabled": true,
       "subtitle": "Growing Through Innovation and Precision"
+    },
+    "infrastructure": {
+      "type": "infrastructure",
+      "items": [
+        {
+          "id": "cnc-machines",
+          "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2",
+          "title": "Advanced CNC Manufacturing",
+          "capacity": "15 High-Precision CNC Machines",
+          "description": "Cutting-edge CNC manufacturing capabilities enabling complex precision component production",
+          "specifications": "Multi-axis machining, tight tolerance control, diverse material processing"
+        }
+      ],
+      "title": "Our Infrastructure",
+      "enabled": true,
+      "subtitle": "State-of-the-Art Manufacturing Capabilities"
     },
     "companyOverview": {
       "type": "company-overview",
@@ -101,20 +117,21 @@
       "items": [
         {
           "id": "overview",
-          "content": "RT Turnomatics is a specialized precision components manufacturer established in 2021, focusing on delivering high-quality engineered solutions for automotive, pneumatic, and aerospace industries. With advanced CNC manufacturing capabilities and a commitment to innovation, we serve global clients with custom-engineered precision parts.",
+          "content": "RT Turnomatics is a precision components manufacturer established in 2021, specializing in high-quality engineered solutions for automotive, pneumatic, and aerospace industries. With advanced CNC capabilities and a commitment to innovation, we serve 15 global clients across multiple sectors.",
           "highlights": [
             "ISO 9001:2015 Quality Certification",
             "Advanced CNC Manufacturing Technology",
-            "Global Client Base (15+ International Clients)",
+            "Global Reach with 15 International Clients",
             "Custom Engineering Solutions",
-            "Multi-Metal Processing Capabilities",
-            "Precision Components for Critical Sectors"
+            "Comprehensive Quality Control",
+            "Diverse Material Processing Capabilities",
+            "Sustainable Manufacturing Practices"
           ]
         }
       ],
       "title": "Company Overview",
       "enabled": true,
-      "subtitle": "Precision Engineering, Global Solutions"
+      "subtitle": "Precision Engineering, Global Impact"
     },
     "manufacturingProcess": {
       "type": "manufacturing-process",
@@ -129,31 +146,31 @@
           "id": "material",
           "step": 2,
           "title": "Material Selection",
-          "description": "Precise material sourcing and selection based on component requirements"
+          "description": "Precise material sourcing and evaluation for optimal component performance"
         },
         {
           "id": "production",
           "step": 3,
-          "title": "CNC Precision Manufacturing",
-          "description": "High-precision manufacturing using state-of-the-art CNC machining centers"
+          "title": "Precision Manufacturing",
+          "description": "High-precision CNC machining with advanced multi-axis capabilities"
         },
         {
           "id": "quality",
           "step": 4,
           "title": "Quality Assurance",
-          "description": "Rigorous quality control and dimensional inspection processes"
+          "description": "Rigorous quality control and dimensional inspection using advanced metrology equipment"
         },
         {
           "id": "finishing",
           "step": 5,
           "title": "Surface Treatment",
-          "description": "Advanced surface finishing, laser marking, and final treatments"
+          "description": "Advanced surface finishing, including laser marking and specialized coatings"
         },
         {
           "id": "delivery",
           "step": 6,
-          "title": "Packaging and Delivery",
-          "description": "Secure packaging and timely global delivery of precision components"
+          "title": "Packaging & Delivery",
+          "description": "Secure packaging and timely delivery with comprehensive documentation"
         }
       ],
       "title": "Manufacturing Process",
