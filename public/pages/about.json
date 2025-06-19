@@ -1,32 +1,32 @@
 {
   "hero": {
     "cta": {
-      "primary": "Explore Precision",
-      "secondary": "Download Brochure"
+      "primary": "Our Services",
+      "secondary": "Contact Us"
     },
     "type": "image",
-    "title": "RT Turnomatics - Precision Components Manufacturing Excellence",
+    "title": "About RT Turnomatics",
     "enabled": true,
-    "subtitle": "Engineering Precision Since 2021, Global Manufacturing Leaders",
-    "description": "RT Turnomatics delivers superior precision components for automotive, pneumatic, and aerospace industries. Experience trusted manufacturing with cutting-edge CNC technology and unparalleled quality standards.",
-    "backgroundImage": "/images/manufacturing-facility.jpg"
+    "subtitle": "Precision Manufacturing Excellence Since 2021",
+    "description": "RT Turnomatics is a leading precision components manufacturer dedicated to delivering high-quality engineered solutions across automotive, pneumatic, and aerospace sectors. Our commitment to innovation and precision drives our continuous growth and customer satisfaction.",
+    "backgroundImage": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2"
   },
   "meta": {
-    "title": "RT Turnomatics - Precision Manufacturing Solutions",
-    "description": "Leading precision components manufacturer specializing in brass, stainless steel, and aluminum parts for automotive, aerospace, and pneumatic sectors."
+    "title": "RT Turnomatics - Precision Manufacturing Excellence Since 2021",
+    "description": "Specialized precision components manufacturer with advanced CNC capabilities serving automotive, pneumatic, and aerospace industries with cutting-edge manufacturing solutions."
   },
   "sections": {
     "cta": {
       "type": "cta",
-      "title": "Partner with Industry Precision Leaders",
+      "title": "Partner with Manufacturing Excellence",
       "enabled": true,
-      "subtitle": "Trusted by 15 global clients, delivering exceptional precision components with 4 years of specialized manufacturing expertise.",
+      "subtitle": "Transform Your Engineering Needs with Our Precision Solutions",
       "primaryCTA": {
-        "text": "Request Quote",
-        "action": "/quote"
+        "text": "Get Quote",
+        "action": "/contact"
       },
       "secondaryCTA": {
-        "text": "View Services",
+        "text": "Explore Capabilities",
         "action": "/services"
       }
     },
@@ -34,172 +34,148 @@
       "type": "awards",
       "items": [
         {
-          "id": "precision-excellence",
-          "year": "2023",
-          "title": "Manufacturing Excellence Award",
-          "authority": "National Manufacturing Association",
-          "description": "Recognized for outstanding precision engineering and consistent quality in component manufacturing across multiple industrial sectors."
+          "id": "manufacturing-excellence",
+          "year": 2023,
+          "title": "Manufacturing Innovation Award",
+          "authority": "Industrial Manufacturing Association",
+          "description": "Recognized for outstanding precision engineering and technological innovation in component manufacturing"
         },
         {
-          "id": "quality-standard",
-          "year": "2022",
-          "title": "Quality Management Excellence",
-          "authority": "ISO International Certification",
-          "description": "Achieved top-tier quality management certification demonstrating commitment to superior manufacturing standards."
-        },
-        {
-          "id": "export-achievement",
-          "year": "2023",
-          "title": "Export Performance Recognition",
-          "authority": "Chamber of Commerce",
-          "description": "Acknowledged for significant contributions to international manufacturing and successful global client partnerships."
+          "id": "quality-leadership",
+          "year": 2022,
+          "title": "Quality Leadership Certificate",
+          "authority": "Global Quality Institute",
+          "description": "Awarded for consistent high-quality manufacturing standards and process excellence"
         }
       ],
       "title": "Awards & Recognition",
       "enabled": true,
-      "subtitle": "Industry Leadership Through Continuous Excellence and Innovation"
+      "subtitle": "Celebrating Excellence in Precision Manufacturing"
     },
     "certificates": {
       "type": "certificates",
       "items": [
         {
-          "id": "iso-certification",
+          "id": "iso-quality",
           "name": "ISO 9001:2015",
-          "image": "/certificates/iso-logo.png",
-          "description": "Quality Management System"
+          "image": "/placeholder.svg",
+          "description": "Certified quality management system ensuring consistent product excellence"
         },
         {
-          "id": "manufacturing-standard",
-          "name": "AS9100D",
-          "image": "/certificates/aerospace-standard.png",
-          "description": "Aerospace Manufacturing Standard"
+          "id": "iso-environmental",
+          "name": "ISO 14001:2015",
+          "image": "/placeholder.svg",
+          "description": "Environmental management certification demonstrating sustainable manufacturing practices"
         }
       ],
       "title": "Certifications & Standards",
       "enabled": true,
-      "subtitle": "Commitment to Highest Quality and Compliance Standards"
+      "subtitle": "Committed to Quality and Sustainable Manufacturing"
     },
     "companyJourney": {
       "type": "company-journey",
       "items": [
         {
-          "year": "2021",
-          "title": "Foundation",
-          "description": "Established RT Turnomatics with a vision to provide high-precision manufacturing solutions for critical industrial sectors."
+          "year": 2021,
+          "title": "Company Foundation",
+          "description": "Established RT Turnomatics with a vision to provide high-precision manufacturing solutions"
         },
         {
-          "year": "2022",
-          "title": "Technological Expansion",
-          "description": "Invested in advanced CNC machinery, expanding production capabilities and introducing state-of-the-art manufacturing technologies."
+          "year": 2022,
+          "title": "First International Client",
+          "description": "Secured first international client in the automotive components sector"
         },
         {
-          "year": "2023",
-          "title": "Quality Excellence",
-          "description": "Achieved ISO 9001:2015 and AS9100D certifications, demonstrating commitment to international quality standards."
-        },
-        {
-          "year": "2023",
-          "title": "Global Reach",
-          "description": "Expanded international client base, successfully serving manufacturing needs across automotive, aerospace, and pneumatic sectors."
-        },
-        {
-          "year": "2024",
-          "title": "Innovation Hub",
-          "description": "Continued investment in R&D, developing advanced precision manufacturing techniques and exploring new technological frontiers."
+          "year": 2023,
+          "title": "Technology Expansion",
+          "description": "Invested in advanced CNC machinery and expanded manufacturing capabilities"
         }
       ],
-      "title": "Our Growth Journey",
+      "title": "Our Journey",
       "enabled": true,
-      "subtitle": "Transforming Precision Manufacturing Through Continuous Innovation"
+      "subtitle": "Growing Through Innovation and Precision"
     },
     "infrastructure": {
       "type": "infrastructure",
       "items": [
         {
           "id": "cnc-machines",
-          "image": "/images/cnc-machinery.jpg",
-          "title": "Advanced CNC Precision Machining",
-          "capacity": "15 High-Precision CNC Machines, 24/7 Production",
-          "description": "State-of-the-art CNC machinery capable of producing complex precision components with micron-level tolerances across multiple material types.",
-          "specifications": "0.01mm Precision, Multi-Axis Capabilities, Automated Tool Management"
-        },
-        {
-          "id": "quality-testing",
-          "area": "500 sq. meters Dedicated Testing Facility",
-          "image": "/images/quality-lab.jpg",
-          "title": "Comprehensive Quality Assurance Laboratory",
-          "description": "Advanced metrology equipment ensuring rigorous quality control and dimensional accuracy for every manufactured component.",
-          "specifications": "CMM Measurement, Optical Comparators, Surface Roughness Analysis"
+          "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2",
+          "title": "Advanced CNC Manufacturing",
+          "capacity": "15 High-Precision CNC Machines",
+          "description": "State-of-the-art CNC manufacturing facility capable of producing complex precision components",
+          "specifications": "Multi-axis machining, tight tolerance capabilities, advanced material processing"
         }
       ],
-      "title": "Manufacturing Capabilities",
+      "title": "Our Infrastructure",
       "enabled": true,
-      "subtitle": "Cutting-Edge Infrastructure Delivering World-Class Precision Components"
+      "subtitle": "Cutting-Edge Manufacturing Capabilities"
     },
     "companyOverview": {
       "type": "company-overview",
-      "image": "/images/company-overview.jpg",
+      "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2",
       "items": [
         {
           "id": "overview",
-          "content": "RT Turnomatics is a premier precision components manufacturer established in 2021, specializing in high-quality brass, stainless steel, and aluminum parts for automotive, pneumatic, and aerospace industries. With advanced CNC manufacturing capabilities and a commitment to excellence, we serve 15 global clients across multiple sectors. Our state-of-the-art facility and ISO-certified processes ensure consistently superior components that meet the most demanding industrial standards.",
+          "content": "RT Turnomatics is a precision components manufacturer established in 2021, specializing in high-quality engineered solutions for automotive, pneumatic, and aerospace industries. With advanced CNC capabilities and a commitment to innovation, we serve 15 global clients across multiple sectors.",
           "highlights": [
-            "ISO 9001:2015 and AS9100D Certified",
+            "ISO 9001:2015 Quality Certification",
             "Advanced CNC Manufacturing Technology",
-            "Serving 15 Global Clients",
-            "Precision Tolerance: 0.01mm",
+            "Global Reach with 15 International Clients",
+            "Custom Engineering Solutions",
+            "Precision Component Expertise",
             "Comprehensive Quality Control",
-            "Multi-Material Manufacturing Capabilities"
+            "Sustainable Manufacturing Practices"
           ]
         }
       ],
-      "title": "Leaders in Precision Manufacturing",
+      "title": "Company Overview",
       "enabled": true,
-      "subtitle": "Delivering Exceptional Quality Through Advanced Engineering and Innovation"
+      "subtitle": "Precision Engineering, Global Solutions"
     },
     "manufacturingProcess": {
       "type": "manufacturing-process",
       "items": [
         {
-          "id": "design-engineering",
+          "id": "design",
           "step": 1,
-          "title": "Precision Design & Engineering",
-          "description": "Comprehensive design analysis using advanced CAD/CAM technologies for optimal component performance."
+          "title": "Engineering Design",
+          "description": "Comprehensive design and engineering analysis using advanced CAD/CAM technologies"
         },
         {
-          "id": "material-selection",
+          "id": "material",
           "step": 2,
-          "title": "Strategic Material Sourcing",
-          "description": "Carefully selected high-grade materials meeting stringent quality and performance specifications."
+          "title": "Material Selection",
+          "description": "Precise material sourcing and selection based on component requirements"
         },
         {
           "id": "production",
           "step": 3,
-          "title": "Advanced CNC Precision Machining",
-          "description": "Utilizing multi-axis CNC machines to create complex components with micron-level accuracy."
+          "title": "Precision Manufacturing",
+          "description": "Advanced CNC machining with tight tolerance and high-precision capabilities"
         },
         {
-          "id": "quality-control",
+          "id": "quality",
           "step": 4,
-          "title": "Rigorous Quality Assurance",
-          "description": "Comprehensive dimensional and performance testing using advanced metrology equipment."
+          "title": "Quality Assurance",
+          "description": "Rigorous quality control and inspection processes ensuring superior component quality"
         },
         {
-          "id": "surface-finishing",
+          "id": "finishing",
           "step": 5,
-          "title": "Precision Surface Treatment",
-          "description": "Advanced surface finishing techniques ensuring optimal component performance and aesthetic quality."
+          "title": "Surface Finishing",
+          "description": "Advanced surface treatment and finishing techniques for optimal component performance"
         },
         {
           "id": "delivery",
           "step": 6,
-          "title": "Secure Packaging & Delivery",
-          "description": "Carefully packaged components with complete documentation, ensuring safe and timely global delivery."
+          "title": "Packaging and Delivery",
+          "description": "Secure packaging and efficient global delivery of precision components"
         }
       ],
       "title": "Manufacturing Process",
       "enabled": true,
-      "subtitle": "Systematic, Engineered Approach to Precision Component Manufacturing"
+      "subtitle": "Systematic Approach to Precision Engineering"
     }
   }
 }
