@@ -9,14 +9,14 @@
   },
   "meta": {
     "title": "Precision Components Manufacturing | RT Turnomatics",
-    "description": "Expert precision component manufacturing for automotive, pneumatic, and aerospace sectors using advanced CNC machining technologies."
+    "description": "Expert precision manufacturing of custom components for automotive, pneumatic, and aerospace sectors using advanced CNC machining technologies."
   },
   "sections": {
     "cta": {
       "type": "cta",
       "title": "Let's Discuss Your Precision Component Needs",
       "enabled": true,
-      "subtitle": "Partner with RT Turnomatics for custom manufacturing solutions tailored to your industry",
+      "subtitle": "Partner with our expert team to transform your engineering requirements into high-quality precision parts",
       "primaryCTA": {
         "text": "Request Quote",
         "action": "/contact"
@@ -31,9 +31,9 @@
       "items": [
         {
           "id": "custom-manufacturing",
-          "image": "https://unsplash.com/photos/cnc-machining",
+          "image": "https://unsplash.com/manufacturing-precision",
           "title": "Custom Manufacturing",
-          "description": "RT Turnomatics specializes in precision custom manufacturing of complex components using state-of-the-art CNC machining technologies. We transform raw materials into high-precision parts for diverse industrial applications.",
+          "description": "We specialize in creating precision-engineered components tailored to your exact specifications using state-of-the-art CNC machining technologies. Our custom manufacturing services ensure high-quality, precise parts for diverse industrial applications.",
           "capabilities": [
             "CNC Precision Machining",
             "Multi-Material Fabrication",
@@ -44,34 +44,34 @@
         },
         {
           "id": "surface-finishing",
-          "image": "https://unsplash.com/photos/metal-finishing",
+          "image": "https://unsplash.com/metal-finishing",
           "title": "Surface Finishing",
-          "description": "Our advanced surface finishing services ensure superior quality and performance of precision components. We apply specialized treatments to enhance durability, aesthetics, and functional properties.",
+          "description": "Our advanced surface finishing services enhance the performance, durability, and aesthetic quality of precision components. We provide comprehensive finishing solutions that meet the highest industry standards.",
           "capabilities": [
             "Polishing",
             "Deburring",
             "Coating Applications",
-            "Precision Grinding",
-            "Chemical Treatment"
+            "Corrosion Resistance Treatment",
+            "Precision Surface Texturing"
           ]
         },
         {
           "id": "laser-marking",
-          "image": "https://unsplash.com/photos/laser-engraving",
+          "image": "https://unsplash.com/laser-marking",
           "title": "Laser Marking",
-          "description": "Utilizing cutting-edge laser marking technologies, we provide permanent, high-precision identification and branding solutions for components across various industries.",
+          "description": "Utilizing cutting-edge laser marking technologies, we provide permanent, high-precision identification and branding solutions for your precision components. Our marking services ensure clear, durable, and traceable part identification.",
           "capabilities": [
-            "Permanent Marking",
-            "High-Resolution Engraving",
-            "Multiple Material Compatibility",
-            "Serial Number Tracking",
-            "Compliance Labeling"
+            "Serial Number Marking",
+            "Logo Engraving",
+            "Barcode/QR Code Marking",
+            "Material Compatibility",
+            "High-Precision Detailing"
           ]
         }
       ],
-      "title": "Our Service Offerings",
+      "title": "Our Comprehensive Services",
       "enabled": true,
-      "subtitle": "Comprehensive Precision Manufacturing Solutions for Global Industries"
+      "subtitle": "Delivering Precision Solutions Across Multiple Manufacturing Domains"
     },
     "capabilities": {
       "type": "capabilities",
@@ -86,22 +86,22 @@
             },
             {
               "label": "Operating Mode",
-              "value": "24/7 Production"
+              "value": "24/7 Production Cycles"
             },
             {
               "label": "Typical Delivery",
-              "value": "2-4 Weeks"
+              "value": "10-15 Business Days"
             }
           ],
-          "description": "RT Turnomatics maintains robust production capabilities with continuous manufacturing processes and efficient workflow management."
+          "description": "Our advanced manufacturing facility enables high-volume, precision component production with rapid turnaround times and consistent quality."
         },
         {
           "id": "technical-expertise",
           "title": "Technical Capabilities",
           "metrics": [
             {
-              "label": "Machine Technologies",
-              "value": "15+ CNC Machines"
+              "label": "CNC Machines",
+              "value": "12+ Advanced Units"
             },
             {
               "label": "Industry Experience",
@@ -109,29 +109,29 @@
             },
             {
               "label": "Custom Solutions",
-              "value": "90% Adaptability"
+              "value": "95% Engineering Adaptability"
             }
           ],
-          "description": "Our technical expertise spans multiple industries, with advanced machinery and innovative problem-solving approaches."
+          "description": "Our technical team combines cutting-edge technology with deep engineering expertise to deliver innovative precision manufacturing solutions."
         },
         {
           "id": "quality-standards",
-          "title": "Quality Precision",
+          "title": "Quality Assurance",
           "metrics": [
             {
-              "label": "Tolerance Level",
+              "label": "Precision Tolerance",
               "value": "±0.01mm"
             },
             {
               "label": "Quality Rate",
-              "value": "99.8% Accuracy"
+              "value": "99.8% First-Pass Quality"
             },
             {
               "label": "Certifications",
-              "value": "ISO 9001:2015"
+              "value": "ISO 9001:2015 Compliant"
             }
           ],
-          "description": "We maintain rigorous quality standards, ensuring exceptional precision and reliability in every component we manufacture."
+          "description": "We maintain rigorous quality control processes to ensure every component meets the highest precision and performance standards."
         }
       ],
       "title": "Our Technical Capabilities",
@@ -144,32 +144,32 @@
         {
           "step": 1,
           "title": "Initial Consultation",
-          "description": "Understand client requirements, technical specifications, and project objectives."
+          "description": "Understand client requirements, technical specifications, and project objectives through detailed technical discussions."
         },
         {
           "step": 2,
           "title": "Design & Engineering",
-          "description": "Develop detailed manufacturing blueprints and prototype designs using advanced CAD technologies."
+          "description": "Develop comprehensive manufacturing blueprints and validate design feasibility using advanced CAD/CAM technologies."
         },
         {
           "step": 3,
-          "title": "CNC Machining",
-          "description": "Execute precision manufacturing using state-of-the-art CNC machines and specialized tooling."
+          "title": "Precision Manufacturing",
+          "description": "Execute component production using state-of-the-art CNC machining with strict adherence to design specifications."
         },
         {
           "step": 4,
           "title": "Quality Inspection",
-          "description": "Conduct comprehensive quality checks using advanced metrology equipment to ensure precision."
+          "description": "Conduct comprehensive quality checks using precision measuring instruments to ensure dimensional accuracy."
         },
         {
           "step": 5,
           "title": "Surface Finishing",
-          "description": "Apply specialized surface treatments and finishing processes to enhance component performance."
+          "description": "Apply advanced surface treatment and finishing techniques to enhance component performance and aesthetics."
         },
         {
           "step": 6,
-          "title": "Delivery & Support",
-          "description": "Package components securely and provide ongoing technical support for seamless integration."
+          "title": "Packaging & Delivery",
+          "description": "Carefully package components and arrange timely delivery, ensuring safe transportation and client satisfaction."
         }
       ],
       "title": "Our Manufacturing Process",
