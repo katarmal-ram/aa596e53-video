@@ -1,8 +1,8 @@
 {
   "site": {
-    "name": "RT Turnomatics Precision Engineering",
-    "favicon": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?auto=format&fit=crop&w=32&q=80",
-    "tagline": "Precision Engineering for Critical Industries"
+    "name": "RT Turnomatics",
+    "favicon": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?q=80&w=64&h=64&fit=crop",
+    "tagline": "Precision Engineering Excellence"
   },
   "footer": {
     "social": [
@@ -17,12 +17,12 @@
         "platform": "linkedin"
       },
       {
-        "url": "https://twitter.com/rt_turnomatics",
+        "url": "https://twitter.com/rtturnomatics",
         "icon": "twitter",
         "platform": "twitter"
       },
       {
-        "url": "https://instagram.com/rt_turnomatics",
+        "url": "https://instagram.com/rtturnomatics",
         "icon": "instagram",
         "platform": "instagram"
       }
@@ -80,25 +80,24 @@
     ]
   },
   "company": {
-    "logo": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?auto=format&fit=crop&w=100&q=80",
-    "name": "RT Turnomatics Precision Engineering",
-    "tagline": "Precision Engineering for Critical Industries",
-    "description": "RT Turnomatics is a leading precision components manufacturer specializing in high-quality CNC-machined parts for automotive, pneumatic, and aerospace industries. With ISO 9001 and ISO 14001 certifications and Six Sigma quality standards, we deliver exceptional precision components that meet the most demanding industry requirements."
+    "logo": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?q=80&w=300&h=200&fit=crop",
+    "name": "RT Turnomatics",
+    "tagline": "Precision Engineering Excellence",
+    "description": "RT Turnomatics is a leading precision components manufacturer specializing in high-quality CNC-machined parts for automotive, pneumatic, and aerospace industries. We deliver exceptional engineering solutions with ISO 9001 and ISO 14001 certifications."
   },
   "contact": {
     "email": "info@rtturnomatics.com",
-    "phone": "+91-9876543210",
+    "phone": "+91-022-4567-8901",
     "timing": [
       {
         "hours": "9:00 AM - 6:00 PM",
         "label": "Mon - Fri"
       },
       {
-        "hours": "9:00 AM - 2:00 PM",
-        "label": "Sat"
+        "hours": "Closed",
+        "label": "Saturday & Sunday"
       }
     ],
-    "address": "Plot 42, Industrial Area, Pune, Maharashtra 411033, India"
-  },
-  "system_prompt": "You are a professional web developer and designer specializing in creating modern, responsive websites. Your task is to generate website content and structure based on the provided company information. Follow these guidelines:\n\n1. **Content Generation**: Create compelling, professional content that reflects the company's industry and values\n2. **Design Principles**: Use modern web design trends, ensure mobile responsiveness, and prioritize user experience\n3. **SEO Optimization**: Include relevant keywords naturally in content and meta descriptions\n4. **Brand Consistency**: Maintain consistent tone and messaging throughout all content\n5. **Technical Standards**: Follow web accessibility guidelines and best practices\n\nWhen generating content, be specific, engaging, and tailored to the target audience. Use active voice and clear, concise language."
+    "address": "Plot 45, Industrial Area, Pune - 411014, Maharashtra, India"
+  }
 }
