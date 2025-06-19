@@ -45,7 +45,7 @@
           "year": 2022,
           "title": "Quality Leadership Certificate",
           "authority": "Global Quality Institute",
-          "description": "Awarded for consistent high-quality manufacturing standards and process excellence"
+          "description": "Acknowledged for consistent high-quality manufacturing standards and process excellence"
         }
       ],
       "title": "Awards & Recognition",
@@ -70,7 +70,7 @@
       ],
       "title": "Certifications & Standards",
       "enabled": true,
-      "subtitle": "Committed to Quality and Sustainable Manufacturing"
+      "subtitle": "Committed to Highest Quality and Compliance Standards"
     },
     "companyJourney": {
       "type": "company-journey",
@@ -78,38 +78,22 @@
         {
           "year": 2021,
           "title": "Company Foundation",
-          "description": "Established RT Turnomatics with a vision to provide high-precision manufacturing solutions"
+          "description": "Established RT Turnomatics with a vision to provide high-precision manufacturing solutions for critical industrial sectors"
         },
         {
           "year": 2022,
-          "title": "First International Client",
-          "description": "Secured first international client in the automotive components sector"
+          "title": "Initial Market Expansion",
+          "description": "Secured first international clients and expanded manufacturing capabilities with advanced CNC equipment"
         },
         {
           "year": 2023,
-          "title": "Technology Expansion",
-          "description": "Invested in advanced CNC machinery and expanded manufacturing capabilities"
+          "title": "Quality Certification Achievement",
+          "description": "Obtained ISO 9001:2015 and ISO 14001:2015 certifications, reinforcing commitment to quality and sustainability"
         }
       ],
       "title": "Our Journey",
       "enabled": true,
       "subtitle": "Growing Through Innovation and Precision"
-    },
-    "infrastructure": {
-      "type": "infrastructure",
-      "items": [
-        {
-          "id": "cnc-machines",
-          "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2",
-          "title": "Advanced CNC Manufacturing",
-          "capacity": "15 High-Precision CNC Machines",
-          "description": "State-of-the-art CNC manufacturing facility capable of producing complex precision components",
-          "specifications": "Multi-axis machining, tight tolerance capabilities, advanced material processing"
-        }
-      ],
-      "title": "Our Infrastructure",
-      "enabled": true,
-      "subtitle": "Cutting-Edge Manufacturing Capabilities"
     },
     "companyOverview": {
       "type": "company-overview",
@@ -117,15 +101,14 @@
       "items": [
         {
           "id": "overview",
-          "content": "RT Turnomatics is a precision components manufacturer established in 2021, specializing in high-quality engineered solutions for automotive, pneumatic, and aerospace industries. With advanced CNC capabilities and a commitment to innovation, we serve 15 global clients across multiple sectors.",
+          "content": "RT Turnomatics is a specialized precision components manufacturer established in 2021, focusing on delivering high-quality engineered solutions for automotive, pneumatic, and aerospace industries. With advanced CNC manufacturing capabilities and a commitment to innovation, we serve global clients with custom-engineered precision parts.",
           "highlights": [
             "ISO 9001:2015 Quality Certification",
             "Advanced CNC Manufacturing Technology",
-            "Global Reach with 15 International Clients",
+            "Global Client Base (15+ International Clients)",
             "Custom Engineering Solutions",
-            "Precision Component Expertise",
-            "Comprehensive Quality Control",
-            "Sustainable Manufacturing Practices"
+            "Multi-Metal Processing Capabilities",
+            "Precision Components for Critical Sectors"
           ]
         }
       ],
@@ -151,26 +134,26 @@
         {
           "id": "production",
           "step": 3,
-          "title": "Precision Manufacturing",
-          "description": "Advanced CNC machining with tight tolerance and high-precision capabilities"
+          "title": "CNC Precision Manufacturing",
+          "description": "High-precision manufacturing using state-of-the-art CNC machining centers"
         },
         {
           "id": "quality",
           "step": 4,
           "title": "Quality Assurance",
-          "description": "Rigorous quality control and inspection processes ensuring superior component quality"
+          "description": "Rigorous quality control and dimensional inspection processes"
         },
         {
           "id": "finishing",
           "step": 5,
-          "title": "Surface Finishing",
-          "description": "Advanced surface treatment and finishing techniques for optimal component performance"
+          "title": "Surface Treatment",
+          "description": "Advanced surface finishing, laser marking, and final treatments"
         },
         {
           "id": "delivery",
           "step": 6,
           "title": "Packaging and Delivery",
-          "description": "Secure packaging and efficient global delivery of precision components"
+          "description": "Secure packaging and timely global delivery of precision components"
         }
       ],
       "title": "Manufacturing Process",
