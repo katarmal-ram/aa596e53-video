@@ -1,99 +1,180 @@
 {
   "hero": {
-    "type": "image",
-    "title": "Our Services",
+    "type": "video",
+    "title": "Precision Manufacturing Solutions",
     "enabled": true,
-    "subtitle": "Comprehensive Precision Components Manufacturing Solutions",
-    "description": "From design to delivery, we provide end-to-end manufacturing services with precision and quality.",
-    "backgroundImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=2000&q=80"
+    "subtitle": "Delivering High-Quality Precision Components for Critical Industries",
+    "backgroundImage": "",
+    "backgroundVideo": "https://example.com/manufacturing-process.mp4"
   },
   "meta": {
-    "title": "Services - RT Turnomatics",
-    "description": "Comprehensive precision components manufacturing services including custom manufacturing, surface finishing, and laser marking with quality assurance and timely delivery."
+    "title": "Precision Components Manufacturing | RT Turnomatics",
+    "description": "Expert precision component manufacturing for automotive, pneumatic, and aerospace sectors using advanced CNC machining technologies."
   },
   "sections": {
     "cta": {
       "type": "cta",
-      "title": "Ready to Start Your Project?",
+      "title": "Let's Discuss Your Precision Component Needs",
       "enabled": true,
-      "subtitle": "Contact us today to discuss your manufacturing requirements.",
+      "subtitle": "Partner with RT Turnomatics for custom manufacturing solutions tailored to your industry",
       "primaryCTA": {
-        "text": "Get Quote",
+        "text": "Request Quote",
         "action": "/contact"
       },
       "secondaryCTA": {
-        "text": "View Products",
-        "action": "/products"
+        "text": "Call Experts",
+        "action": "tel:+1234567890"
       }
+    },
+    "services": {
+      "type": "services",
+      "items": [
+        {
+          "id": "custom-manufacturing",
+          "image": "https://unsplash.com/photos/cnc-machining",
+          "title": "Custom Manufacturing",
+          "description": "RT Turnomatics specializes in precision custom manufacturing of complex components using state-of-the-art CNC machining technologies. We transform raw materials into high-precision parts for diverse industrial applications.",
+          "capabilities": [
+            "CNC Precision Machining",
+            "Multi-Material Fabrication",
+            "Complex Geometric Designs",
+            "Rapid Prototyping",
+            "Small to Medium Batch Production"
+          ]
+        },
+        {
+          "id": "surface-finishing",
+          "image": "https://unsplash.com/photos/metal-finishing",
+          "title": "Surface Finishing",
+          "description": "Our advanced surface finishing services ensure superior quality and performance of precision components. We apply specialized treatments to enhance durability, aesthetics, and functional properties.",
+          "capabilities": [
+            "Polishing",
+            "Deburring",
+            "Coating Applications",
+            "Precision Grinding",
+            "Chemical Treatment"
+          ]
+        },
+        {
+          "id": "laser-marking",
+          "image": "https://unsplash.com/photos/laser-engraving",
+          "title": "Laser Marking",
+          "description": "Utilizing cutting-edge laser marking technologies, we provide permanent, high-precision identification and branding solutions for components across various industries.",
+          "capabilities": [
+            "Permanent Marking",
+            "High-Resolution Engraving",
+            "Multiple Material Compatibility",
+            "Serial Number Tracking",
+            "Compliance Labeling"
+          ]
+        }
+      ],
+      "title": "Our Service Offerings",
+      "enabled": true,
+      "subtitle": "Comprehensive Precision Manufacturing Solutions for Global Industries"
     },
     "capabilities": {
       "type": "capabilities",
       "items": [
         {
-          "id": "custom-manufacturing",
-          "icon": "cog",
-          "title": "Custom Manufacturing",
-          "features": [
-            "CNC Precision Machining",
-            "Multi-Metal Capabilities",
-            "Automotive & Aerospace Components"
+          "id": "production-capacity",
+          "title": "Manufacturing Capacity",
+          "metrics": [
+            {
+              "label": "Monthly Production",
+              "value": "5,000+ Components"
+            },
+            {
+              "label": "Operating Mode",
+              "value": "24/7 Production"
+            },
+            {
+              "label": "Typical Delivery",
+              "value": "2-4 Weeks"
+            }
           ],
-          "description": "Specialized custom manufacturing of precision components using advanced CNC technologies, serving critical industries with high-quality brass, stainless steel, and aluminum parts."
+          "description": "RT Turnomatics maintains robust production capabilities with continuous manufacturing processes and efficient workflow management."
         },
         {
-          "id": "surface-finishing",
-          "icon": "brush",
-          "title": "Surface Finishing",
-          "features": [
-            "Precision Polishing",
-            "Consistent Quality",
-            "Multiple Finish Options"
+          "id": "technical-expertise",
+          "title": "Technical Capabilities",
+          "metrics": [
+            {
+              "label": "Machine Technologies",
+              "value": "15+ CNC Machines"
+            },
+            {
+              "label": "Industry Experience",
+              "value": "3+ Years Specialized"
+            },
+            {
+              "label": "Custom Solutions",
+              "value": "90% Adaptability"
+            }
           ],
-          "description": "Advanced surface finishing techniques to enhance component durability, aesthetics, and performance across various industrial applications."
+          "description": "Our technical expertise spans multiple industries, with advanced machinery and innovative problem-solving approaches."
         },
         {
-          "id": "laser-marking",
-          "icon": "tag",
-          "title": "Laser Marking",
-          "features": [
-            "Permanent Identification",
-            "High Precision",
-            "Multiple Material Compatibility"
+          "id": "quality-standards",
+          "title": "Quality Precision",
+          "metrics": [
+            {
+              "label": "Tolerance Level",
+              "value": "±0.01mm"
+            },
+            {
+              "label": "Quality Rate",
+              "value": "99.8% Accuracy"
+            },
+            {
+              "label": "Certifications",
+              "value": "ISO 9001:2015"
+            }
           ],
-          "description": "Precise laser marking services for component traceability, branding, and detailed identification across different material types."
+          "description": "We maintain rigorous quality standards, ensuring exceptional precision and reliability in every component we manufacture."
         }
       ],
-      "title": "Our Capabilities",
+      "title": "Our Technical Capabilities",
       "enabled": true,
-      "subtitle": "Advanced manufacturing capabilities for diverse industrial requirements"
+      "subtitle": "Advanced Technology Meets Precision Engineering"
     },
-    "manufacturingProcess": {
+    "manufacturing-process": {
       "type": "manufacturing-process",
-      "items": [
+      "steps": [
         {
           "step": 1,
-          "title": "Design & Engineering",
-          "description": "Comprehensive CAD modeling and engineering analysis to optimize component specifications and performance."
+          "title": "Initial Consultation",
+          "description": "Understand client requirements, technical specifications, and project objectives."
         },
         {
           "step": 2,
-          "title": "Material Selection",
-          "description": "Careful selection of premium quality materials from certified suppliers to ensure superior component integrity."
+          "title": "Design & Engineering",
+          "description": "Develop detailed manufacturing blueprints and prototype designs using advanced CAD technologies."
         },
         {
           "step": 3,
-          "title": "Precision Machining",
-          "description": "Advanced CNC machining techniques to create intricate components with tight tolerances and exceptional accuracy."
+          "title": "CNC Machining",
+          "description": "Execute precision manufacturing using state-of-the-art CNC machines and specialized tooling."
         },
         {
           "step": 4,
-          "title": "Quality Assurance",
-          "description": "Rigorous quality control processes to guarantee each component meets the highest industry standards."
+          "title": "Quality Inspection",
+          "description": "Conduct comprehensive quality checks using advanced metrology equipment to ensure precision."
+        },
+        {
+          "step": 5,
+          "title": "Surface Finishing",
+          "description": "Apply specialized surface treatments and finishing processes to enhance component performance."
+        },
+        {
+          "step": 6,
+          "title": "Delivery & Support",
+          "description": "Package components securely and provide ongoing technical support for seamless integration."
         }
       ],
-      "title": "Manufacturing Process",
+      "title": "Our Manufacturing Process",
       "enabled": true,
-      "subtitle": "Systematic approach ensuring quality at every step"
+      "subtitle": "Systematic Approach to Precision Component Manufacturing"
     }
   }
 }
